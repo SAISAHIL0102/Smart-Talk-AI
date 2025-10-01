@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+@import "tailwindcss";
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(135deg, #181824 0%, #23243a 100%);
+  color: #e0e6ed;
+  min-height: 100vh;
+  letter-spacing: 0.01em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: #fff;
+}
+
+a {
+  color: #7f9cf5;
+  transition: color 0.2s;
+}
+a:hover {
+  color: #a3bffa;
+}
+
+button {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  border-radius: 9999px;
+  background: linear-gradient(90deg, #7f53ac 0%, #647dee 100%);
+  color: #fff;
+  box-shadow: 0 4px 24px 0 rgba(100, 125, 222, 0.15);
+  transition: background 0.2s, transform 0.1s, box-shadow 0.2s;
+  outline: none;
+  border: none;
+}
+button:hover, button:focus {
+  background: linear-gradient(90deg, #23243a 0%, #7f53ac 100%);
+  transform: translateY(-2px) scale(1.03);
+  box-shadow: 0 8px 32px 0 rgba(100, 125, 222, 0.25);
+}
+
+input, textarea, select {
+  background: #23243a;
+  color: #e0e6ed;
+  border: 1.5px solid #353657;
+  border-radius: 1.5rem;
+  padding: 0.75rem 1.25rem;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  transition: border 0.2s, box-shadow 0.2s;
+}
+input:focus, textarea:focus, select:focus {
+  border: 1.5px solid #7f53ac;
+  box-shadow: 0 0 0 2px #7f53ac33;
+  outline: none;
+}
+
+.card, .glass {
+  background: rgba(35, 36, 58, 0.85);
+  border-radius: 1.5rem;
+  box-shadow: 0 4px 32px 0 rgba(24, 24, 36, 0.25);
+  backdrop-filter: blur(8px);
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  background: #23243a;
+}
+::-webkit-scrollbar-thumb {
+  background: #353657;
+  border-radius: 8px;
+}
