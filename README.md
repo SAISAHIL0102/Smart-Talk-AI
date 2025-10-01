@@ -11,14 +11,6 @@ Gemini AI
 JWT + bcrypt (Authentication)  
 Multer + Cloudinary (Image Upload)
 
-# Deployment
-
-Backend: Render
-
-Database: MongoDB Atlas
-
-Media Storage: Cloudinary
-
 # Run
 
 Run backend
@@ -36,22 +28,24 @@ npm run dev
 
 # Signup/signin pages
 
-<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/a9daca9a-51af-4c97-9ed1-f240d044d681" />
+<img width="1876" height="937" alt="Screenshot 2025-10-01 183457" src="https://github.com/user-attachments/assets/4f9e8842-541e-4ea4-83b0-8f3040c607dc" />
 
-<img width="1914" height="1029" alt="Screenshot 2025-10-01 072810" src="https://github.com/user-attachments/assets/913bbb7b-dd8c-4635-853f-49f86fcaea38" />
+<img width="1895" height="939" alt="Screenshot 2025-10-01 183510" src="https://github.com/user-attachments/assets/069449cb-553f-4c67-9875-bfa01d9df436" />
 
-# Login Page
 
-<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/a9daca9a-51af-4c97-9ed1-f240d044d681" />
 
 # Select Assistant Image
 
-<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/f467af72-269c-4fcb-96de-f01c749e0285" />
+
+<img width="1244" height="642" alt="image" src="https://github.com/user-attachments/assets/ef06894c-09db-4939-8cc0-c2706caed5da" />
+
 
 
 # Choose Assistant Name
 
-<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/653e6deb-034b-420d-8101-7be2657100ec" />
+
+<img width="1228" height="615" alt="image" src="https://github.com/user-attachments/assets/c179fba7-2b44-4718-b470-9812f5ad2635" />
+
 
 
 # working
@@ -75,7 +69,17 @@ npm run dev
 
 # working
 
-<img width="1143" height="886" alt="image" src="https://github.com/user-attachments/assets/f9ed0031-4866-483c-9434-7ec4db481d38" />
+# What is the time now?
+
+<img width="1137" height="671" alt="Screenshot 2025-10-01 130731" src="https://github.com/user-attachments/assets/75201d01-7a7d-4ce3-84d4-a141375a39ab" />
+
+# opening youtube
+
+<img width="1919" height="1079" alt="Screenshot 2025-10-01 131149" src="https://github.com/user-attachments/assets/49b6a973-baa6-4e58-9644-9221d22eeaec" />
+
+
+
+
 
 
 
